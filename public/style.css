@@ -7,10 +7,6 @@
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
 }
 
-li{
-    margin: 7px 5px 7px 5px;
-}
-
 h2,h3{
     margin: 5px 5px 5px 5px;
 }
@@ -29,6 +25,8 @@ h2,h3{
 .card{
     margin: 5px 5px 10px 5px;
 }
+
+
 
 #project{
     background-color: #FFE69A;
